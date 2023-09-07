@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Atul Kumar
 - 👀 I’m interested in Stock Trading
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I have B.Tech in Computer Science
 - 💞️ I’m looking to collaborate on Full Stack or front end projects
 - 📫 Reach me on wa 7050814803
 
